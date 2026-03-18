@@ -1,0 +1,12 @@
+let age=24;
+console.log(typeof(age));
+let name="ramesh";
+console.log(typeof("name"));
+let price=332.33;
+console.log(typeof(price));
+let bool =true;
+console.log(typeof(bool));
+let khali=null;
+console.log(typeof(khali));
+let nothing;
+console.log(typeof(nothing));
